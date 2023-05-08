@@ -34,6 +34,8 @@
                             </div>
                             <button type="submit" class="btn btn-primary col-md-12">Submit</button>
                           </form>
+                         Don't have an account? <a href="register.html">Sign up here</a>
+                         
                     </div>
                 </div>
             </div>
